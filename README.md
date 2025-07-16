@@ -52,14 +52,10 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: *"kudrat7605@gmail.com"*  
-- 💼 LinkedIn: *"https://www.linkedin.com/in/kudrat-batta-031132323/"*
-
-  
----
+<h3>📧 Email</h3>
+<p>
+ <a href="kudrat7605@gmail.com" style="font-size: 16px; margin-left: 6px;">kudrat7605@gmail.com</a>          <h3> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle;"/> LinkedIn:</h3> <p>  <a href="https://www.linkedin.com/in/[your-profile](https://www.linkedin.com/in/kudratbatta7605/)" target="_blank" style="margin-left: 5px; font-size: 16px;">https://www.linkedin.com/in/kudratbatta7605/</a> </p> 
+</p>
 
 <h2 align="center"><i>“The best way to learn is by building. Let’s keep experimenting.”</i></h2>
-
 
